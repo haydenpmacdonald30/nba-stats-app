@@ -1,0 +1,26 @@
+.player-cont {
+    background-color: rgb(64, 80, 181);
+    color: white;
+}
+
+
+.card-content {
+    background-color: rgb(64, 80, 181);
+    color: white;
+}
+
+.card-cont {
+    width: 350px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 10px 30px;
+}
+
+
+.table-cont {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 10px 30px;
+}
+
+@media only screen and (max-width: 1000px) {
+    .card-cont {
+      width: 100%;
+    }
+  }
